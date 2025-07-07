@@ -1,4 +1,4 @@
-I am currently a PhD student of [Beijing International Center for Mathematical Research (BICMR)](https://bicmr.pku.edu.cn/), Peking University. My advisor is [Yi Liu](http://scholar.pku.edu.cn/liuyi)
+I am currently a PhD student of Beijing International Center for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/)), Peking University. My advisor is [Yi Liu](http://scholar.pku.edu.cn/liuyi)
 
 #### Contact
 
