@@ -1,17 +1,13 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a PhD student at [Beijing International Center for Mathematical Research (BICMR)](https://bicmr.pku.edu.cn/) at Peking University. My advisor is [Yi Liu](http://scholar.pku.edu.cn/liuyi).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: duanjr@stu.pku.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. Mathematics, Peking University, 2021--\
+B.S. Mathematics, Peking University, 2017--2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Topology of 3-manifolds, $L^2$-invariants, geometric group theory
 
