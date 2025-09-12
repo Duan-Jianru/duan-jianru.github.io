@@ -5,7 +5,7 @@ I am currently a PhD student at Beijing International Center for Mathematical Re
 Email: duanjr@stu.pku.edu.cn
 
 #### Education
-Ph.D. Mathematics, Peking University, 2021–
+Ph.D. Mathematics, Peking University, 2021–  
 B.S. Mathematics, Peking University, 2017–2021
 
 #### Research Interests
