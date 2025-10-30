@@ -1,4 +1,5 @@
 
+- BICMR Mathematical Award for Graduate Students, 2025
 - National Scholarship for Graduate Student, 2023
 - Huaixin Bachelor (BICMR), 2021
 - Outstanding Student Award of Beijing, 2020
