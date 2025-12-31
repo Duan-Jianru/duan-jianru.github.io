@@ -110,3 +110,8 @@ section .main-body{
 }
 
 
+#publications a, 
+#publications-md a {
+    text-decoration: none;
+    color: inherit;
+}
