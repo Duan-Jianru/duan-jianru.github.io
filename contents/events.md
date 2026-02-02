@@ -1,8 +1,8 @@
 
-- Will give a talk at the **21st East Asian Conference on Geometric Topology** at Seoul, February, 2026
-- Gave a talk at the **Topology Seminar** at Academy of Mathematics and System Science, December, 2025 ([link](http://www.amss.ac.cn/mzxsbg/202512/t20251216_8027830.html))
-- Gave an online talk at the **Sino-Russian Student Mathematical Seminar**, November, 2025. ([video](https://www.mathnet.ru/php/seminars.phtml?option_lang=eng&presentid=48329))
-- Gave an online talk at the **Moscow-Beijing Topology Seminar**, August, 2025. ([link](https://www.mathnet.ru/php/seminars.phtml?presentid=46891&option_lang=eng))
+- Gave a talk at the **21st East Asian Conference on Geometric Topology** at Ewha Womans University, Seoul, February 2026. ([link](https://gt.postech.ac.kr/eacgt2026/), [slides](/papers/Slide_EACGT.pdf))
+- Gave a talk at the **Topology Seminar** at Academy of Mathematics and System Science, December 2025. ([link](http://www.amss.ac.cn/mzxsbg/202512/t20251216_8027830.html))
+- Gave an online talk at the **Sino-Russian Student Mathematical Seminar**, November 2025. ([video](https://www.mathnet.ru/php/seminars.phtml?option_lang=eng&presentid=48329))
+- Gave an online talk at the **Moscow-Beijing Topology Seminar**, August 2025. ([link](https://www.mathnet.ru/php/seminars.phtml?presentid=46891&option_lang=eng))
 - Gave a talk in **The 11th Sino-Russian Conference on Knot Theory and Related Topics** at Xi'an Jiaotong-Liverpool University, Suzhou, July 2025. ([link](https://www.xjtlu.edu.cn/en/study/departments/school-of-mathematics-and-physics/knot-theory-and-related-topics))
 - Gave a talk in the **Geometric Group Theory Seminar** at Shanghai Center for Mathematical Sciences, Fudan University, May 2025. ([link](https://scms.fudan.edu.cn/info/6043/9411.htm))
 - Gave a talk in the **Caltech Geometry & Topology Seminar**, April 2025. ([link](https://sites.google.com/site/caltechgtseminar/home))
