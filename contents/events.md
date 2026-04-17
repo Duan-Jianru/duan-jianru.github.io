@@ -1,4 +1,5 @@
 
+- Gave a short lecture at the **Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)**, April 2026. ([lecture notes](/papers/Note_SIMIS_L2Betti.pdf))
 - Gave a talk at the **21st East Asian Conference on Geometric Topology** at Ewha Womans University, Seoul, February 2026. ([link](https://gt.postech.ac.kr/eacgt2026/), [slides](/papers/Slide_EACGT.pdf))
 - Gave a talk at the **Topology Seminar** at Academy of Mathematics and System Science, December 2025. ([link](http://www.amss.ac.cn/mzxsbg/202512/t20251216_8027830.html))
 - Gave an online talk at the **Sino-Russian Student Mathematical Seminar**, November 2025. ([video](https://www.mathnet.ru/php/seminars.phtml?option_lang=eng&presentid=48329))
