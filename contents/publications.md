@@ -14,7 +14,7 @@
         <a href="https://arxiv.org/abs/2311.04115">arXiv</a> • <a href="https://www.ams.org/journals/tran/2025-378-05/S0002-9947-2025-09384-X/">Trans. Amer. Math. Soc. 378 (2025)</a>
     </p></li>  
     <li><p>
-        <strong>On the positivity of twisted $L^2$-torsion for 3–manifolds</strong><br>
+        <strong>On the positivity of twisted $L^2$-torsion for 3-manifolds</strong><br>
         <a href="https://arxiv.org/abs/2209.10145">arXiv</a> • <a href="https://msp.org/agt/2024/24-4/p16.xhtml">Algebr. Geom. Topol. 24 (2024)</a>
     </p></li> 
 </ol>
