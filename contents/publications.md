@@ -3,7 +3,7 @@
 <ol reversed>  
     <li><p>
         <strong>Flexible exponent of geometric 3-manifolds and Legendrian maps of Seifert spaces</strong> (with <a href="https://ymsc.tsinghua.edu.cn/en/info/1032/1835.htm">Jianfeng Lin</a>, Shicheng Wang, Zhongzi Wang and <a href="https://math.pku.edu.cn/jsdw/js_20180628175159671361/w_20180628175159671361/110443.htm">Dongyi Wei</a>)<br>
-    <a href="https://arxiv.org/abs/2605.17257">arXiv</a>
+    <a href="https://arxiv.org/abs/2605.17257">arXiv</a> • 
     </p></li>
     <li><p>
         <strong>Universal $L^2$-torsion and sutured decomposition for 3-manifolds</strong><br>
