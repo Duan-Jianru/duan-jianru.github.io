@@ -1,10 +1,10 @@
-I obtained my PhD in 2026 from Beijing International Center for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/)), Peking University, where my advisor was [Yi Liu](http://scholar.pku.edu.cn/liuyi). Starting from October 2026, I will be a Postdoctoral Researcher at University of Oxford, supervised by [Dawid Kielak](https://people.maths.ox.ac.uk/kielak/).
+I am a Postdoctoral Research Associate at University of Oxford (my [webpage](https://www.maths.ox.ac.uk/people/jianru.duan)), supervised by [Dawid Kielak](https://people.maths.ox.ac.uk/kielak/). I obtained my PhD in 2026 from Beijing International Center for Mathematical Research ([BICMR](https://bicmr.pku.edu.cn/)), Peking University, where my advisor was [Yi Liu](http://scholar.pku.edu.cn/liuyi). 
 
 
 
 #### Contact
 
-Email: duanjr@stu.pku.edu.cn
+Email: duanjr7582 [at] gmail [dot] com
 
 #### Education
 Ph.D. Mathematics, Peking University, 2021–2026 
