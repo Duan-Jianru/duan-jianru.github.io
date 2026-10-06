@@ -4,7 +4,7 @@ I am a Postdoctoral Research Associate at University of Oxford (my [webpage](htt
 
 #### Contact
 
-Email: duanjr7582 [at] gmail [dot] com
+Email: jianru [dot] duan [at] maths.ox.ac.uk
 
 #### Education
 Ph.D. Mathematics, Peking University, 2021–2026 
